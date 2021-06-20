@@ -1,0 +1,16 @@
+h1
+{
+    color :black;
+    font-size: 180%;
+}
+
+
+p {
+color : rgb(40, 10, 206);
+font-size: 100%;
+}
+
+body
+{
+ background-color: thistle;
+}
