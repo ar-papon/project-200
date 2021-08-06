@@ -1,16 +1,17 @@
-h1
+h2
 {
     color :black;
-    font-size: 180%;
+    font-size: 320%;
 }
 
 
 p {
-color : rgb(40, 10, 206);
+color : rgba(13, 12, 20, 0.671);
 font-size: 100%;
 }
 
 body
 {
- background-color: thistle;
+ background-color: rgb(230, 169, 36);
+ font-size :220%;
 }
