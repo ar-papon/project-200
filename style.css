@@ -1,17 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
 h2
 {
-    color :black;
+    color :rgb(174, 238, 26);
     font-size: 320%;
 }
-
-
-p {
-color : rgba(245, 223, 238, 0.884);
-font-size: 100%;
+p{
+    color: rgba(21, 150, 224, 0.288);
+    font-size: 320%;
 }
 
 body
 {
- background-color: rgb(230, 169, 36);
- font-size :220%;
+ background-color: #121212;
+ 
+}
+#txt {
+    font-family: 'Orbitron', sans-serif;
+    color: #66ff99;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 50px;
 }
